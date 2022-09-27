@@ -1,0 +1,35 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    background:linear-gradient(rgb(169, 213, 225),rgb(151, 3, 106));
+    text-align: center;
+}
+#image_1{
+    width: 100px; 
+    height: 100px;
+}
+#header_1{
+    font-family: 'Gill Sans';
+    font-weight: bold;
+    text-shadow: 2px 2px 5px crimson;
+}
+#image_2{
+    width: 250px; 
+    height: 200px;  
+}
+#d1{
+    background-color: rgb(233, 186, 223);
+    float: none;
+    width: 60%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 30px rgb(11, 8, 8);
+    margin: 10px;
+    padding: 10px;
+}
+#Button_1{
+    background-color: brown;
+    color: aliceblue;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 5px 5px 30px rgb(11, 8, 8);
+    font-size: 15px;
+}

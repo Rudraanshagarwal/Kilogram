@@ -1,0 +1,27 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    background:linear-gradient(rgb(169, 213, 225),rgb(151, 3, 106));
+    text-align: center;
+}
+#image_1{
+    width: 100px; 
+    height: 100px;
+}
+#header_1{
+    font-family: 'Gill Sans';
+    font-weight: bold;
+    text-shadow: 2px 2px 5px crimson;
+}
+#output{
+    width: 80%;
+    background-color: rgb(233, 186, 223);
+}
+#Logout{
+    float: right;
+    background-color: aqua;
+    font-size: 20px;
+}
+#AddRoom{
+    background-color: rgb(194, 245, 24);
+    font-size: 20px
+}
